@@ -4,13 +4,20 @@
   font-weight: bolder;
 }
 
-.unimportant {
-  color: green;
-  font-style: italic;
+.body {
+  width: 100%;
 }
 
-.important {
-  background-color: gray;
+.sidebar {
+  background-color: #99ccff;
+  border: 10px solid black;
+  width: 20%;
+  text-align: left;
+}
+
+.unimportant {
+  width: 70%;
+  text-align: left;
 }
 
 img {
