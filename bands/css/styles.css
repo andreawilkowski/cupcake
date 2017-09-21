@@ -2,25 +2,33 @@
   color: blue;
   font-style: italic;
   font-weight: bolder;
+  margin-top: 5px;
 }
 
 .body {
   width: 100%;
+  margin-top: 5px;
+
 }
 
 .sidebar {
-  background-color: #99ccff;
+  background-color: #ff3300;
   border: 10px solid black;
   width: 20%;
   text-align: left;
+  padding: 21px;
+  margin: 10px;
+  margin-top: 5px;
 }
 
 .unimportant {
   width: 70%;
   text-align: left;
+  margin-top: 5px;
 }
 
 img {
   display: block;
   margin: 0 auto;
+  margin-top: 5px;
 }
